@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @thejurrer
-- 👀 I’m interested in html to create new websites
-- 🌱 I’m currently learning also html
+-  Hi, I’m @thejurrer
+-  I’m interested in html to create new websites
+-  I’m currently learning rust
 
 
 <!---
