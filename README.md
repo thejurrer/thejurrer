@@ -14,7 +14,7 @@ I am currently learning rust, and I am working on a website: EachDayAHoliday.com
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### CTFs
-I like forensics: https://eurekactf.nl/
+I like forensics.
 
 
 <!---
